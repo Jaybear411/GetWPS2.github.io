@@ -21,7 +21,7 @@ html, body {
 h1.title {
   font-size: 64px;
   font-weight: bold;
-  color: #A31F34;
+  color: #0603af;
   margin: 0;
   display: block;
   float: left; }
@@ -60,14 +60,14 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #8A8B8C;
+  background: #cc3030;
   padding: 15px 25px;
   font-size: 20px;
   height: 25px;
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
-  color: white;
+  color: rgb(255, 255, 255);
   margin-top: 8px;
   text-align: center; }
   .score-container:after, .best-container:after {
@@ -79,7 +79,7 @@ h1.title {
     font-size: 13px;
     line-height: 13px;
     text-align: center;
-    color: #eee4da; }
+    color: #ffffff; }
   .score-container .score-addition, .best-container .score-addition {
     position: absolute;
     right: 30px;
@@ -123,9 +123,9 @@ hr {
 
 .container {
   padding: 80px 150px;
-  background: #fff;
-  border: 1px solid #696968;
-  border-top: 4px solid #9d3c3c;
+  background: rgb(255, 255, 255);
+  border: 1px solid #5c5c5c;
+  border-top: 4px solid #3c54c0;
   border-radius: 0px 0px 5px 5px;
   -moz-border-radius: 0px 0px 5px 5px;
   -webkit-box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.35);
